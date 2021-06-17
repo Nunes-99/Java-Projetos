@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Rosa\Java-curso\Listas\.metadata\.plugins\org.eclipse.jdt.core
+1797702972.index
+1817128900.index
